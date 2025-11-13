@@ -43,4 +43,4 @@
 
 感谢访问我的个人网站！
 
-*版权所有 &copy; 2025 曦昼 | 萌ICP备20259851号: [moe]([https://icp.gov.moe/?keyword=20259851])*
+版权所有 &copy; 2025 曦昼 | **萌ICP备20259851号**: [sunshinemahiru]([https://icp.gov.moe/?keyword=20259851])

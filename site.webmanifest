@@ -1,0 +1,16 @@
+{
+  "name": "SunshineMahiru 个人站点",
+  "short_name": "Mahiru",
+  "description": "SunshineMahiru 的个人网站：技术、项目与灵感记录。",
+  "lang": "zh-CN",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff9d3c",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

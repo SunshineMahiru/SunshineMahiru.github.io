@@ -107,3 +107,4 @@ PRs and suggestions are welcome for improvements to structure, accessibility, or
 
 ---
 Maintained by [SunshineMahiru](https://github.com/SunshineMahiru).
+Contained AI help with this program.

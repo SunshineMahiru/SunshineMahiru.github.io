@@ -1,7 +1,7 @@
-# SunshineMahiru.github.io
+# SunshineMahiru.github.io🥰
 
 A lightweight personal website, deployed as a static site on GitHub Pages.  
-No frameworks, no build step, and no Jekyll processing (disabled via `.nojekyll`).
+No frameworks, no build step, 和 no Jekyll processing (disabled via `.nojekyll`).
 
 - Live (GitHub Pages): https://SunshineMahiru.github.io/
 - Custom Domain (if configured): https://xizhou-sunshinemahiru.me/
@@ -18,7 +18,7 @@ No frameworks, no build step, and no Jekyll processing (disabled via `.nojekyll`
 ## Repository Structure
 
 ```
-.
+。
 ├─ index.html           # Homepage
 ├─ style.css            # Styles (external)
 ├─ .nojekyll            # Disable Jekyll on GitHub Pages (serve raw static files)

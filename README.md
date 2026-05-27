@@ -1,4 +1,4 @@
-# SunshineMahiru.github.io🥰
+# SunshineMahiru.github.io
 
 A lightweight personal website, deployed as a static site on GitHub Pages.  
 No frameworks, no build step, 和 no Jekyll processing (disabled via `.nojekyll`).
